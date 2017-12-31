@@ -1,7 +1,9 @@
-# huobipro
+# Huobipro
 Huobipro rest api for php
 
 If you have any questions please contact me.
+
+Email:9011140@qq.com
 
 Accept donation:
 
